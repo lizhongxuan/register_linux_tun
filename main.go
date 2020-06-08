@@ -46,4 +46,5 @@ func OpenTunDevice(name string)  error {
 		err = errno
 		return  err
 	}
+	return nil
 }
