@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 	log "github.com/golang/glog"
-	"go/src/syscall"
+	"syscall"
 	"unsafe"
 	"time"
 )
